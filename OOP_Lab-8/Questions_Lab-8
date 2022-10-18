@@ -1,0 +1,17 @@
+Lab-8
+16/09/2022
+
+i.WAP to demonstrate all types of inheritance.
+
+ii. Create a class student which stores name, roll number and age of a student. Derive a class test from student
+class, which stores marks in 5 subjects. Input and display the details of a student.
+
+iii. Extend the program ii. to derive a class from result from classs 'test' which includes member function to
+calculate total marks and percentage of a student. Input the data for a student and display its total marks and 
+percentage.
+
+iv. Extend the program ii. to include a class sports, which stores the marks in sports activity. Derive the
+result class from the classes 'test' and 'sports'. Calculate the total marks and percentage of a student.
+
+v. Create a class 'shape'. Derive three classes from it: Circle, Triangle and Rectangle.Include the relevant
+data members and functions in all the classes. Find the area of each shape and display it.

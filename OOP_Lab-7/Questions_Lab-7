@@ -1,0 +1,10 @@
+OOP Lab-7
+09/09/2022
+
+1. WAP using cpp that uses dynamic constructor to allocate memory to an array of integer.
+Count the number of odd and even element present in the array.
+
+2. Create a class which stores X & Y co-ordinates of a point write a function to find distance
+between two point, intialize the object using default constructor, parameterized constructor and copy constructor 
+
+3. WAP to demonstrate the order of execution of constructor and destructor of a class.

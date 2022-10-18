@@ -1,0 +1,26 @@
+LAB-5
+26/08/2022
+
+Q1. Create a class distance which stores a distance in feet and inches.
+Input 2 distance values in objects, add them, store the resultant distance in and object and display it
+                     [Write the program in two ways]
+            a. Store the resultant distance in the calling object:C3.add(C1,C2)
+            b. Return the resultant object C3=C1.add(C2)
+
+Q2. Create a class with an integer data member. Include functions for input and output in class. Count
+the number of times each function is called and display it.
+
+Q3. WAP to count the number of objects in a class.
+
+Q4. WAP to swap two integers using pass by reference.
+
+Q5. WAP to increment the value of an argument given to function.
+
+Q6. WAP which displays a given charecter, n number of times, using a function. When the n value is provided,
+it should print the given charecter 80 times. When both the charecter and n value is not provided, it should 
+print '*' charecter 80 times.
+               [Write the above program in two ways:-
+                        - using function overloading.
+                        - using default arguments.]
+
+

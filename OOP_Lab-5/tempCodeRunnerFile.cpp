@@ -1,0 +1,1 @@
+cout << "\n\nMethod 2" << endl;

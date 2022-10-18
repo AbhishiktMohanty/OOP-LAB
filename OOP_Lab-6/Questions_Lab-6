@@ -1,0 +1,16 @@
+Lab-6
+02/09/2022
+
+Q1. WAP to swap private data member of two classes. [The classes have no relation with each other].
+
+Q2. Create two classes which stores distance in feet, inches and meter, centimeter format respectively.
+Write a function which compares distance in object of these classes and displays the larger one.
+
+Q3. Create a class which stores time in hh:mm format. Include all the constructors. The parameterized
+constructor should initialize the minute value to zero, if it is not provided.
+
+Q4. Create a class which stores a string and its length as data members. Include all the constructors.
+Include a member function to join two strings and display the concatenated string.
+
+Q5. WAP to calculate simple interest of given principal amount. 
+(Take rate of interest as default argument)
