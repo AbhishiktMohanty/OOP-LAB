@@ -1,0 +1,11 @@
+Lab-10
+21/10/2022
+
+i. WAP to overload following operators for class distance, which stores the distance in feet and inches.
+a) Binary + to
+-add two objects (D3=D1+D2)
+-Add an object to an integer, where the integer should be
+added to the inches value (D2=4+DI)
+b) Unary -
+ii. Create a class which a complex number. Add two objects and display the resultant object. Overload the +* (post and pre) operator for the class.
+iii. WAP to add two objects of time class. Overload the operator = to to assign two objects Overload the assignment operator.

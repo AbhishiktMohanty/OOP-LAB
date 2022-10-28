@@ -10,7 +10,7 @@ MidSemesterExam and EndSemesterExam to compute and display the total marks and p
 
 Q2. Create a class which stores employee name,id and salary Derive two classes from "Employee' class: 
 'Regular' and 'Part-Time'. The 'Regular' class stores DA, HRA and basic salary. The Part-Time' class stores 
-the number of hours and pay per hour. Calculate the salary of a regular employee and a par-time employee.
+the number of hours and pay per hour. Calculate the salary of a regular employee and a part-time employee.
 
 Q3. Create a class which stores account number, customer name and balance. Derive two classes from 
 'Account' class: "Savings' and "Current'. The 'Savings' class stores minimum balance. The 'Current' 

@@ -33,16 +33,18 @@ class regular:public employee{
     void getRegData(){
         cout<<"Enter the details for Regular Employee:"<<endl;
         getData();
-        cout<<"Enter DA: ";
-        cin>>da;
-        cout<<"Enter HRA: ";
-        cin>>hra;
+        // cout<<"Enter DA: ";
+        // cin>>da;
+        // cout<<"Enter HRA: ";
+        // cin>>hra;
         cout<<"Enter Basic Salary: ";
         cin>>basicSalary;
     }
     void calRegSal(){
+        da = 0.8*basicSalary;
+        hra = 0.1*basicSalary;
         RegSalary = basicSalary + da + hra;
-        cout<<"\nSalary of the Regular Employee is "<<RegSalary<<endl;
+        cout<<"\nSalary of the Regular Employee is Rs. "<<RegSalary<<endl;
     }
 };
 
@@ -59,7 +61,7 @@ class partTime:public employee{
     }
     void calPartSal(){
         PartSalary = hr*payhr;
-        cout<<"\nSalary of the Part-Time Employee is "<<PartSalary<<endl;
+        cout<<"\nSalary of the Part-Time Employee is Rs. "<<PartSalary<<endl;
     }
 };
 
